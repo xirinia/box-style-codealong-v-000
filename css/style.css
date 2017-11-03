@@ -43,6 +43,8 @@ figcaption {
 }
 
 
+
+
 /*/////// MEDIA ////////*/
 
 img, video, audio, iframe, table, form {
@@ -141,6 +143,7 @@ img, video, audio, iframe, table, form {
 section {
   padding: 30px;
   margin-bottom: 20px;
+  background: white;
 
 }
 
